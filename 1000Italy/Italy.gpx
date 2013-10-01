@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Geovative Solutions GeoTours" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<metadata>
+  <name>Italy</name>
+  <desc></desc>
+  <author>
+    <name>bcq1@roadrunner.com, using GeoTours</name>
+    <link href="http://www.geovative.com/view?t=FKDF">
+      <text>Italy</text>
+    </link>
+  </author>
+  <link href="http://www.geovative.com/view?t=FKDF">
+    <text>Italy</text>
+  </link>
+  <time>2008-01-22T13:08:50</time>
+  <keywords></keywords>
+</metadata>
+
+
+<wpt lat="45.4667" lon="9.1833">
+    
+
+        <wpt lat="52.373" lon="4.871"></wpt>
+        <wpt lat="52.374" lon="4.872"></wpt>
+        <wpt lat="52.375" lon="4.871"></wpt>
+    
+<name>Milan, Italy</name>
+<desc></desc>
+<sym>Waypoint</sym>
+<extensions>
+        <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+            <gpxx:Proximity>609.6</gpxx:Proximity>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        </gpxx:WaypointExtension>
+</extensions>
+</wpt>
+</gpx>

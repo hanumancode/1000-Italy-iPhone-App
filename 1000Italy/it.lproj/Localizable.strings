@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  1000 Italy
+
+  Created by GJ on 18/09/2013.
+  Copyright (c) 2013 vitzu.com. All rights reserved.
+*/
+
+
+"KEY" = "CONTENT";
+
+"ACCEDI" = "ACCEDI";
+
+"IL MIO PROFILO" = "IL MIO PROFILO";
+"SALVATI" = "SALVATI";
+"LA MIA BACHECA" = "LA MIA BACHECA";
+
+"HOME" = "HOME";
+"PROFILO" = "PROFILO";
+"VIVERE" = "VIVERE";
+"VISITARE" = "VISITARE";
+"MANGIARE" = "MANGIARE";
+"COMPRARE" = "COMPRARE";
+"QR" = "LEGGI QR";
+"IMPOSTAZIONI" = "IMPOSTAZIONI";
+"OFFERTE" = "OFFERTE";
+"INFO" = "INFO UTILI";
+
+"SALVA" = "SALVA";
+"SCRIVI" = "SCRIVI";
+"CARICA" = "CARICA";
+
+"ORARIO" = "ORARIO";
+"FASCIAPREZZO" = "FASCIAPREZZO";
+"SPECIALITA" = "SPECIALITA";
+"OFFERTE" = "OFFERTE";
